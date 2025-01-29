@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\adebo\\source\\repos\\BranchLocator\\BranchLocator\\BranchLocator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\adebo\\source\\repos\\BranchLocator\\BranchLocator\\BranchLocator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\adebo\\source\\repos\\BranchLocator\\BranchLocator\\BranchLocator.csproj",
+        "projectName": "BranchLocator",
+        "projectPath": "C:\\Users\\adebo\\source\\repos\\BranchLocator\\BranchLocator\\BranchLocator.csproj",
+        "packagesPath": "C:\\Users\\adebo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\adebo\\source\\repos\\BranchLocator\\BranchLocator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\adebo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Azure.AI.Language.Conversations": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Bot.Builder": {
+              "target": "Package",
+              "version": "[4.22.1, )"
+            },
+            "Microsoft.Bot.Builder.Dialogs": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            },
+            "Microsoft.Bot.Builder.Integration.AspNet.Core": {
+              "target": "Package",
+              "version": "[4.22.0, )"
+            },
+            "Microsoft.Identity.Client": {
+              "target": "Package",
+              "version": "[4.67.2, )"
+            },
+            "Microsoft.IdentityModel.JsonWebTokens": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

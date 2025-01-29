@@ -1,0 +1,2353 @@
+[
+  {
+    "BranchName": "APAPA",
+    "Address": "15 Warehouse Road, Apapa, Lagos",
+    "latitude": 6.43333,
+    "longitude": 3.41667
+  },
+  {
+    "BranchName": "ABA 1",
+    "Address": "No 1 Eziukwu Road",
+    "latitude": 5.10658,
+    "longitude": 7.36667
+  },
+  {
+    "BranchName": "ABA 3",
+    "Address": "172 FAULKS ROAD BY ARIARIA INT'L MARKET ABA, ABIA STATE",
+    "latitude": 5.10658,
+    "longitude": 7.36667
+  },
+  {
+    "BranchName": "ASA ROAD",
+    "Address": "3/5 Portharcourt Road",
+    "latitude": 5.10658,
+    "longitude": 7.36667
+  },
+  {
+    "BranchName": "ABAKALIKI",
+    "Address": "27A OGOJA ROAD ABAKALIKI",
+    "latitude": 6.3211831,
+    "longitude": 8.109939
+  },
+  {
+    "BranchName": "ABAKALIKI 2",
+    "Address": "2, GUNNING ROAD, ALONG WATERWORKS ROAD",
+    "latitude": 6.32485,
+    "longitude": 8.11368
+  },
+  {
+    "BranchName": "ABEOKUTA",
+    "Address": "84, OBAFEMI AWOLOWO AVENUE, ISALE IGBEIN ABEOKUTA",
+    "latitude": 7.15571,
+    "longitude": 3.34509
+  },
+  {
+    "BranchName": "OKE ILEWO",
+    "Address": "22 Lalubu street Oke Ilewo",
+    "latitude": 7.1667,
+    "longitude": 3.58333
+  },
+  {
+    "BranchName": "ABRAKA",
+    "Address": "240 OLD SAPELE/AGBOR ROAD, EKREJETA, ABRAKA, DELTA STATE, NIGERIA.",
+    "latitude": 5.79023,
+    "longitude": 6.10473
+  },
+  {
+    "BranchName": "ADETOKUNBO ADEMOLA 2",
+    "Address": "PLOT 1722 ADETOKUNBO ADEMOLA CRESENT, WUSE 2",
+    "latitude": 9.05785,
+    "longitude": 7.49508
+  },
+  {
+    "BranchName": "ABUJA",
+    "Address": "63 USUMA STREET, OPP. TRANSCORP HILTON HOTEL, MAITAMA",
+    "latitude": 9.05785,
+    "longitude": 7.49508
+  },
+  {
+    "BranchName": "ADETOKUNBO ADEMOLA (ABUJA)",
+    "Address": "65, Adetokunbo Ademola Crescent, Wuse II, Abuja",
+    "latitude": 9.0707209,
+    "longitude": 7.4826393
+  },
+  {
+    "BranchName": "AHMADU BELLO WAY",
+    "Address": "Plot 796, Ahmadu Bello Way By A.C Okocha Motors, Garki Abuja",
+    "latitude": 9.05785,
+    "longitude": 7.49508
+  },
+  {
+    "BranchName": "AKINTOLA BOULEVARD",
+    "Address": "Plot 1272 Samuel Ladoke Akintola Boulevard, Garki 2 Abuja",
+    "latitude": 9.05785,
+    "longitude": 7.49508
+  },
+  {
+    "BranchName": "AMINU KANO 1",
+    "Address": "Plot 116, Aminu Kano Crescent, Wuse II. FCT 900001",
+    "latitude": 9.05785,
+    "longitude": 7.49508
+  },
+  {
+    "BranchName": "AMINU KANO 2",
+    "Address": "PLOT 1205, CADASTRAL ZONE A7, AMINU KANO CRESCENT, WUSE II DISTRICT ABUJA",
+    "latitude": 9.05785,
+    "longitude": 7.49508
+  },
+  {
+    "BranchName": "ASOKORO",
+    "Address": "65 YAKUBU GOWON CRESCENT ASOKORO",
+    "latitude": 9.05785,
+    "longitude": 7.49508
+  },
+  {
+    "BranchName": "BAZE UNIVERSITY",
+    "Address": "BAZE UNIVERSITY PLOT 686 CADASTRAL ZONE C00 KUCHINGORO ABUJA",
+    "latitude": 9.05785,
+    "longitude": 7.49508
+  },
+  {
+    "BranchName": "BWARI MAIN",
+    "Address": "38, SHAGARI ROAD, OPPOSITE JAMB NAT'L H/QTRS, BWARI, ABUJA",
+    "latitude": 9.05785,
+    "longitude": 7.49508
+  },
+  {
+    "BranchName": "CENTRAL BUSINESS DISTRICT 2",
+    "Address": "Plot 251, Herbert Macaulay Way (Millennium Plaza) Opposite NNPC Towers, Central Area, Abuja.",
+    "latitude": 9.05785,
+    "longitude": 7.49508
+  },
+  {
+    "BranchName": "COURT OF APPEAL",
+    "Address": "COURT OF APPEAL, THREE ARMS ZONE, ABUJA",
+    "latitude": 9.05785,
+    "longitude": 7.49508
+  },
+  {
+    "BranchName": "DEI DEI",
+    "Address": "D4-67/68, INTERNATIONAL BUILDING MATERIALS MARKET, DEI-DEI, ABUJA",
+    "latitude": 9.05785,
+    "longitude": 7.49508
+  },
+  {
+    "BranchName": "DURUMI",
+    "Address": "PLOT 593 CADASTRAL ZONE B02 AREA 1 GARKI ABUJA",
+    "latitude": 9.05785,
+    "longitude": 7.49508
+  },
+  {
+    "BranchName": "DUTSE ALHAJI",
+    "Address": "Plot 353 Cadestral Zone, 0705 Dutse Alhaji, Abuja",
+    "latitude": 9.05785,
+    "longitude": 7.49508
+  },
+  {
+    "BranchName": "EAGLE HOUSE",
+    "Address": "NO 1 OGBOMOSHO STREET, AREA 8 GARKI",
+    "latitude": 9.05785,
+    "longitude": 7.49508
+  },
+  {
+    "BranchName": "EFAB",
+    "Address": "Efab Mall, Ahmadu Bello Way, Area 11, Garki",
+    "latitude": 9.05785,
+    "longitude": 7.49508
+  },
+  {
+    "BranchName": "ENUGU HOUSE",
+    "Address": "PLOT 81 RALPH SHODEINDE STREET, OPP. FEDERAL MINISTRY OF FINANCE, CENTRAL BUSINESS DISTRICT, ABUJA FCT",
+    "latitude": 9.05785,
+    "longitude": 7.49508
+  },
+  {
+    "BranchName": "FUTURE VIEW PLAZA",
+    "Address": "Plot 259 Cadastral Zone A04, Central Business District, Opposite National Mosque, Abuja, FCT.",
+    "latitude": 9.05785,
+    "longitude": 7.49508
+  },
+  {
+    "BranchName": "GARKI",
+    "Address": "PLOT 2001, TAFAWA BALEWA WAY, GARKI AREA 7",
+    "latitude": 9.05785,
+    "longitude": 7.49508
+  },
+  {
+    "BranchName": "GARKI ULTRA MODERN MARKET",
+    "Address": "Garki International Market, Damaturu Crescent, Off Kabo Street, Garki II - Abuja",
+    "latitude": 9.05785,
+    "longitude": 7.49508
+  },
+  {
+    "BranchName": "GATEWAY MALL",
+    "Address": "Novare Gateway Mall, Musa Yaradua Expressway (Airport road), Lugbe, Abuja",
+    "latitude": 9.0000,
+    "longitude": 7.2000
+  },
+  {
+    "BranchName": "GWARIMPA",
+    "Address": "Plot C3, Road 11, Christiana Okunnuga Street, Team 1, 3rd Avenue, Gwarimpa Estate, Abuja",
+    "latitude": 9.1000,
+    "longitude": 7.4500
+  },
+  {
+    "BranchName": "GWARIMPA 2",
+    "Address": "Plot 442 1st Avenue Gwarimpa II Estate Abuja",
+    "latitude": 9.1000,
+    "longitude": 7.4500
+  },
+  {
+    "BranchName": "IMMIGRATION",
+    "Address": "Nigeria Immigration Service HQ, Nnamdi Azikiwe International Airport Road, Abuja",
+    "latitude": 9.0064,
+    "longitude": 7.2632
+  },
+  {
+    "BranchName": "JABI",
+    "Address": "PLOT 502 OBAFEMI AWOLOWO WAY, OPPOSITE AA RANO FILLING STATION, JABI",
+    "latitude": 9.0667,
+    "longitude": 7.4500
+  },
+  {
+    "BranchName": "KEBBI HOUSE",
+    "Address": "PLOT 70, K UR MUHAMMAD WAY OFF AHMADU BELLO WAY, OPPOSITE NEXIM BANK CBD, ABUJA.",
+    "latitude": 9.0579,
+    "longitude": 7.4951
+  },
+  {
+    "BranchName": "MAITAMA 2",
+    "Address": "2, YOBE CLOSE, OFF YEDSERAM STREET, IBB WAY, MAITAMA, ABUJA",
+    "latitude": 9.0833,
+    "longitude": 7.5000
+  },
+  {
+    "BranchName": "NEW WUSE",
+    "Address": "PLOT 2404, INSIDE WUSE MARKET, KASHIM IBRAHIM WAY, ZONE 6, WUSE",
+    "latitude": 9.0667,
+    "longitude": 7.4833
+  },
+  {
+    "BranchName": "ORO AGO CRESCENT",
+    "Address": "Plot 1400 Oro Ago Cr Amma Plaza Behind Forte Oil Filling Station By Old CBN Garki 2 Abuja",
+    "latitude": 9.0579,
+    "longitude": 7.4951
+  },
+  {
+    "BranchName": "SILVERBIRD GALLERIA",
+    "Address": "SILVERBIRD ENTERTAINMENT CENTRE, PLOT 1161, MEMORIAL DRIVE, CENTRAL BUSINESS DISTRICT",
+    "latitude": 9.0579,
+    "longitude": 7.4951
+  },
+  {
+    "BranchName": "SULTAN ABUBAKAR",
+    "Address": "2 KABALE CLOSE, BY HERITAGE HOUSE WUSE ZONE 3, P.M.B 5019 ABUJA",
+    "latitude": 9.0579,
+    "longitude": 7.4951
+  },
+  {
+    "BranchName": "TRANSCORP HILTON",
+    "Address": "TRANSCORP HILTON, GROUND FLOOR, NO 1 AGUIYI IRONSI STREET, MAITAMA, ABUJA",
+    "latitude": 9.0833,
+    "longitude": 7.5000
+  },
+  {
+    "BranchName": "UNIVERSITY OF ABUJA",
+    "Address": "ICT CENTRE, UNIVERSITY OF ABUJA MAIN CAMPUS, AIRPORT ROAD, ABUJA",
+    "latitude": 8.9833,
+    "longitude": 7.1833
+  },
+  {
+    "BranchName": "UTAKO",
+    "Address": "Deo Gratias Plaza. Plot 21, Ekukiham St, Off Ngozi Okonjo Iweala St, Utako, Abuja",
+    "latitude": 9.0667,
+    "longitude": 7.4667
+  },
+  {
+    "BranchName": "WUSE",
+    "Address": "PLOT 2883, ALGERIA STREET, WUSE ZONE 3",
+    "latitude": 9.0667,
+    "longitude": 7.4833
+  },
+  {
+    "BranchName": "WUSE IV",
+    "Address": "WUSE IV BRANCH PLOT 2293, CADESTRAL ZONE A3, HERBERT MACAULAY WAY WUSE, ABUJA",
+    "latitude": 9.0667,
+    "longitude": 7.4833
+  },
+  {
+    "BranchName": "ADO EKITI",
+    "Address": "No 1, Secretariat Road, GRA, Onigari Junction, Ado-Ekiti",
+    "latitude": 7.6211,
+    "longitude": 5.2214
+  },
+  {
+    "BranchName": "EKITI STATE UNIVERSITY",
+    "Address": "Ekiti State University (EKSU), Main Campus, Km13, Iworoko Road, Ado-Ekiti, Ekiti State",
+    "latitude": 7.6211,
+    "longitude": 5.2214
+  },
+  {
+    "BranchName": "AFIKPO",
+    "Address": "14 Eke Market Road",
+    "latitude": 5.8904,
+    "longitude": 7.9280
+  },
+  {
+    "BranchName": "AGBARA",
+    "Address": "PLOT C2B4, AGBARA INDUSTRIAL ESTATE",
+    "latitude": 6.5150,
+    "longitude": 3.1230
+  },
+  {
+    "BranchName": "AGBOR",
+    "Address": "132 Old Lagos/Asaba Road",
+    "latitude": 6.264092,
+    "longitude": 6.201883
+  },
+  {
+    "BranchName": "AGEGE MOTOR ROAD",
+    "Address": "53/55 Old Abeokuta Express Road, Agege, Lagos.",
+    "latitude": 6.6156,
+    "longitude": 3.3336
+  },
+  {
+    "BranchName": "PEN CINEMA",
+    "Address": "18, IJU ROAD, PEN CINEMA",
+    "latitude": 6.6204,
+    "longitude": 3.3216
+  },
+  {
+    "BranchName": "OGBA",
+    "Address": "11, ISHERI ROAD, BESIDE EXCELLENCE HOTEL, AGUDA BUS STOP, OGBA",
+    "latitude": 6.6267,
+    "longitude": 3.3486
+  },
+  {
+    "BranchName": "IKOTA",
+    "Address": "KM 14, LEKKI-EPE EXPRESSWAY, OPPOSITE SPG PETROLEUM, IKOTA",
+    "latitude": 6.4521,
+    "longitude": 3.5421
+  },
+  {
+    "BranchName": "AKURE",
+    "Address": "PLOT 13, ALAGBAKA GRA, AKURE",
+    "latitude": 7.2508,
+    "longitude": 5.2103
+  },
+  {
+    "BranchName": "AKURE 2",
+    "Address": "100B, HOSPITAL ROAD, OPP. MAY QUEEN OF ANGEL CATHOLIC CHURCH, AKURE, ONDO STATE",
+    "latitude": 7.2526,
+    "longitude": 5.2051
+  },
+  {
+    "BranchName": "AKUTE",
+    "Address": "No 32, Akute Ajuwon Road, Akute",
+    "latitude": 6.7000,
+    "longitude": 3.4167
+  },
+  {
+    "BranchName": "ALAGBADO",
+    "Address": "KM 34 LAGOS ABEOKUTA EXPRESS WAY, CASSO BUS STOP ALAGBADO, LAGOS",
+    "latitude": 6.6683,
+    "longitude": 3.2856
+  },
+  {
+    "BranchName": "ANKPA",
+    "Address": "No. 7 Abubakar Road, Ankpa",
+    "latitude": 7.3833,
+    "longitude": 7.6167
+  },
+  {
+    "BranchName": "ANTHONY",
+    "Address": "3, Sylvia Crescent, Anthony Village, Lagos",
+    "latitude": 6.5612,
+    "longitude": 3.3768
+  },
+  {
+    "BranchName": "ANYIGBA",
+    "Address": "KOGI STATE UNIVERSITY ANYIGBA",
+    "latitude": 7.4833,
+    "longitude": 7.1833
+  },
+  {
+    "BranchName": "MARINE ROAD",
+    "Address": "6B, MARINE ROAD, BY LIVERPOOL BRIDGE",
+    "latitude": 6.4516,
+    "longitude": 3.3676
+  },
+  {
+    "BranchName": "MOBIL ROAD",
+    "Address": "19, MOBIL ROAD, AJEGUNLE",
+    "latitude": 6.4596,
+    "longitude": 3.3541
+  },
+  {
+    "BranchName": "WHARF",
+    "Address": "24 WHARF ROAD",
+    "latitude": 6.4516,
+    "longitude": 3.3676
+  },
+  {
+    "BranchName": "TRINITY 2",
+    "Address": "18/19, APAPA-OSHODI EXPRESSWAY IBAFON OLODI APAPA",
+    "latitude": 6.4667,
+    "longitude": 3.3500
+  },
+  {
+    "BranchName": "WAREHOUSE ROAD 2",
+    "Address": "35 Warehouse Road Apapa Lagos",
+    "latitude": 6.4516,
+    "longitude": 3.3676
+  },
+  {
+    "BranchName": "ASABA",
+    "Address": "275 NNEBISI ROAD ASABA DELTA STATE",
+    "latitude": 6.1983,
+    "longitude": 6.7280
+  },
+  {
+    "BranchName": "ASABA GRA",
+    "Address": "PLOT 150, BLK 2, CORE AREA PHASE 1, ALONG OKPANAM ROAD",
+    "latitude": 6.2197,
+    "longitude": 6.6959
+  },
+  {
+    "BranchName": "EZENEI",
+    "Address": "NO. 3 EZENEI AVENUE",
+    "latitude": 6.1983,
+    "longitude": 6.7280
+  },
+  {
+    "BranchName": "ICT",
+    "Address": "51 OKPANAM ROAD, DBS JUNCTION, ASABA, DELTA STATE",
+    "latitude": 6.2197,
+    "longitude": 6.6959
+  },
+  {
+    "BranchName": "AUCHI",
+    "Address": "19, OTARU ROAD, AUCHI",
+    "latitude": 7.0649,
+    "longitude": 6.2636
+  },
+  {
+    "BranchName": "AWKA",
+    "Address": "NO 59 ZIK'S AVENUE",
+    "latitude": 6.2106,
+    "longitude": 7.0723
+  },
+  {
+    "BranchName": "AWKA 2",
+    "Address": "ALONG ENUGU-ONITSHA EXPRESSWAY, REGINA CAELI JUNCTION, AWKA",
+    "latitude": 6.2194,
+    "longitude": 7.0735
+  },
+  {
+    "BranchName": "NNAMDI AZIKIWE",
+    "Address": "NNAMDI AZIKIWE UNIVERSITY",
+    "latitude": 6.2456,
+    "longitude": 7.1180
+  },
+  {
+    "BranchName": "AZARE",
+    "Address": "MAIDUGURI EXPRESS WAY",
+    "latitude": 11.6781,
+    "longitude": 10.1900
+  },
+  {
+    "BranchName": "SEME BORDER",
+    "Address": "BANK STREET-SEME BORDER, LAGOS-BADAGRY EXPRESSWAY, SEME LAGOS",
+    "latitude": 6.4114,
+    "longitude": 2.7183
+  },
+  {
+    "BranchName": "BAUCHI",
+    "Address": "Abdulkadir Ahmed Road, GRA Bauchi",
+    "latitude": 10.3158,
+    "longitude": 9.8442
+  },
+  {
+    "BranchName": "EKENWA ROAD",
+    "Address": "3 EKENWAN ROAD",
+    "latitude": 6.3249,
+    "longitude": 5.6216
+  },
+  {
+    "BranchName": "IKPOBA HILL",
+    "Address": "107 BENIN AGBOR ROAD, IKPOBA HILL",
+    "latitude": 6.3176,
+    "longitude": 5.6145
+  },
+  {
+    "BranchName": "IKPOBA SLOPE",
+    "Address": "162 AKPAKPAVA ROAD, BENIN CITY",
+    "latitude": 6.3382,
+    "longitude": 5.6257
+  },
+  {
+    "BranchName": "MISSION ROAD",
+    "Address": "104, MISSION ROAD, BENIN CITY, BENIN, EDO STATE",
+    "latitude": 6.3405,
+    "longitude": 5.6218
+  },
+  {
+    "BranchName": "OREGBENI",
+    "Address": "43, BENIN AGBOR ROAD, IKPOBA HILL",
+    "latitude": 6.3176,
+    "longitude": 5.6145
+  },
+  {
+    "BranchName": "SAKPONBA ROAD",
+    "Address": "49, SAKPONBA ROAD",
+    "latitude": 6.3333,
+    "longitude": 5.6167
+  },
+  {
+    "BranchName": "UNIBEN",
+    "Address": "Ransome Kuti Way, University of Benin, Ugbowo Campus",
+    "latitude": 6.4042,
+    "longitude": 5.6218
+  },
+  {
+    "BranchName": "BENIN AGBOR PARK",
+    "Address": "228 BENIN AGBOR ROAD",
+    "latitude": 6.3176,
+    "longitude": 5.6145
+  },
+  {
+    "BranchName": "BENIN",
+    "Address": "92 AKPAKPAVA ROAD, BENIN-CITY",
+    "latitude": 6.3382,
+    "longitude": 5.6257
+  },
+  {
+    "BranchName": "BENIN AIRPORT ROAD",
+    "Address": "23 AIRPORT ROAD",
+    "latitude": 6.3167,
+    "longitude": 5.6000
+  },
+  {
+    "BranchName": "SAPELE ROAD",
+    "Address": "89/91, Sapele Road, Opposite Ministry of Works",
+    "latitude": 6.3176,
+    "longitude": 5.6145
+  },
+  {
+    "BranchName": "USELU",
+    "Address": "135 USELU-LAGOS ROAD",
+    "latitude": 6.3700,
+    "longitude": 5.6000
+  },
+  {
+    "BranchName": "BIDA",
+    "Address": "ALONG BCCC ROAD",
+    "latitude": 9.0833,
+    "longitude": 6.0167
+  },
+  {
+    "BranchName": "BIRNIN KEBBI",
+    "Address": "7, SULTAN ABUBAKAR ROAD",
+    "latitude": 12.4539,
+    "longitude": 4.1975
+  },
+  {
+    "BranchName": "BONNY ISLAND",
+    "Address": "No 7, New Road",
+    "latitude": 4.4522,
+    "longitude": 7.1681
+  },
+  {
+    "BranchName": "BUKURU",
+    "Address": "PLOT 6B JOS ROAD, OPPOSITE POST OFFICE, BUKURU, JOS SOUTH, PLATEAU STATE",
+    "latitude": 9.7333,
+    "longitude": 8.8667
+  },
+  {
+    "BranchName": "LAW SCHOOL BWARI",
+    "Address": "NIGERIA LAW SCHOOL P.M.B. 5019 WUSE-ABUJA",
+    "latitude": 9.3000,
+    "longitude": 7.3833
+  },
+  {
+    "BranchName": "CALABAR",
+    "Address": "NO. 1 CLEMENT EBRI DRIVE, STATE HOUSING ESTATE, MURTALA MOHAMMED HIGHWAY",
+    "latitude": 4.9589,
+    "longitude": 8.3269
+  },
+  {
+    "BranchName": "CHAMLEY (CALABAR 3)",
+    "Address": "34 CHAMLEY STREET",
+    "latitude": 4.9589,
+    "longitude": 8.3269
+  },
+  {
+    "BranchName": "MARY SLESSOR ROAD",
+    "Address": "14 MARYSLESSOR AVENUE",
+    "latitude": 4.9589,
+    "longitude": 8.3269
+  },
+  {
+    "BranchName": "COKER",
+    "Address": "PLOT 5 KM 3 BESIDE ELEGANZA BUILDING BADAGRY EXPRESSWAY SURU ALABA, LAGOS",
+    "latitude": 6.4654,
+    "longitude": 3.4064
+  },
+  {
+    "BranchName": "DAMATURU",
+    "Address": "PLOT 29/30 ABBA IBRAHIM WAY, DAMATURU, YOBE STATE",
+    "latitude": 11.7480,
+    "longitude": 11.9660
+  },
+  {
+    "BranchName": "DUTSE",
+    "Address": "PLOT 91 SANI ABACHA WAY, YADI DUTSE",
+    "latitude": 11.7590,
+    "longitude": 9.3389
+  },
+  {
+    "BranchName": "EKET",
+    "Address": "11 Grace Bill Road, Eket, Akwa Ibom",
+    "latitude": 4.6420,
+    "longitude": 7.9246
+  },
+  {
+    "BranchName": "EKPOMA",
+    "Address": "14, UKPENU ROAD",
+    "latitude": 6.7500,
+    "longitude": 6.1333
+  },
+  {
+    "BranchName": "EKWULOBIA",
+    "Address": "# 1 Oko Road",
+    "latitude": 6.0167,
+    "longitude": 7.0667
+  },
+  {
+    "BranchName": "ENUGU",
+    "Address": "18 OKPARA AVENUE ENUGU",
+    "latitude": 6.5244,
+    "longitude": 7.5086
+
+  },
+  {
+    "BranchName": "ENUGU 2",
+    "Address": "250 OGUI ROAD",
+    "latitude": 6.5244,
+    "longitude": 7.5086
+  },
+  {
+    "BranchName": "ESTATE LAYOUT",
+    "Address": "PLOT 49 NIKE LAKE ROAD, TRANS EKULU, ENUGU",
+    "latitude": 6.5244,
+    "longitude": 7.5086
+  },
+  {
+    "BranchName": "NINTH MILE CORNER",
+    "Address": "21 OLD ONITSHA-ENUGU EXPRESSWAY NINTHMILE CORNER, ENUGU",
+    "latitude": 6.5244,
+    "longitude": 7.5086
+  },
+  {
+    "BranchName": "PRESIDENTIAL ROAD",
+    "Address": "Plot 20A Presidential Road, Independence Layout",
+    "latitude": 6.5244,
+    "longitude": 7.5086
+  },
+  {
+    "BranchName": "ZIK AVENUE",
+    "Address": "105 ZIK AVENUE, ENUGU",
+    "latitude": 6.5244,
+    "longitude": 7.5086
+  },
+  {
+    "BranchName": "EPE",
+    "Address": "22/23 LAGOS ROAD, OPPOSITE BENJUDE SUPERMARKET, AIYETORO, EPE",
+    "latitude": 6.5833333,
+    "longitude": 3.9833333
+  },
+  {
+    "BranchName": "ALGERIA STREET (WUSE ANNEX)",
+    "Address": "PLOT 2883, ALGERIA STREET WUSE ZONE 3 ABUJA FCT",
+    "latitude": 9.0747,
+    "longitude": 7.4760
+  },
+  {
+    "BranchName": "CENTRAL BUSINESS DISTRICT",
+    "Address": "Fmbn House, Plot 266 Cadastral A O, Central Business District, Abuja",
+    "latitude": 9.072264,
+    "longitude": 7.491302
+  },
+  {
+    "BranchName": "FEDERAL SECRETARIAT",
+    "Address": "PHASE 3, SHEHU SHAGARI WAY, THREE ARMS ZONE, ABUJA",
+    "latitude": 9.0556,
+    "longitude": 7.4898
+  },
+  {
+    "BranchName": "GUDU",
+    "Address": "PLOT 1097 AKINTUNDE ADUWO CLOSE, OFF JOSEPH GOMWALK STREET, GUDU DISTRICT, ABUJA",
+    "latitude": 9.0167,
+    "longitude": 7.4833
+  },
+  {
+    "BranchName": "K CITY PLAZA",
+    "Address": "PLOT 528 AMINU KANO CRESCENT WUSE 2 ABUJA",
+    "latitude": 9.0833,
+    "longitude": 7.4667
+  },
+  {
+    "BranchName": "NATIONAL ASSEMBLY",
+    "Address": "NATIONAL ASSEMBLY COMPLEX, GROUND FLOOR, NEW SENATE WING, 3 ARMS ZONE, ABUJA",
+    "latitude": 9.0556,
+    "longitude": 7.4898
+  },
+  {
+    "BranchName": "KUBWA",
+    "Address": "2ND GATE, PLOT 2 GADO NASCO ROAD, KUBWA",
+    "latitude": 9.1500,
+    "longitude": 7.3500
+  },
+  {
+    "BranchName": "FESTAC",
+    "Address": "House 1, 1st Avenue 200 Road",
+    "latitude": 6.465422,
+    "longitude": 3.406448
+  },
+  {
+    "BranchName": "FUNTUA",
+    "Address": "Plot 125, Zaria Road, Funtua",
+    "latitude": 11.5233,
+    "longitude": 7.3081
+  },
+  {
+    "BranchName": "GBAGADA",
+    "Address": "17/19 DIYA STREET IFAKO GBAGADA",
+    "latitude": 6.561638,
+    "longitude": 3.384247
+  },
+  {
+    "BranchName": "GBAGADA 2",
+    "Address": "Plot 280, Oshodi-Oworonshoki Expressway, 1st Pedro/Charly Boy B/Stop, Phase 1, Gbagada",
+    "latitude": 6.561638,
+    "longitude": 3.384247
+  },
+  {
+    "BranchName": "GBOKO",
+    "Address": "49, J.S TARKA WAY, GBOKO, BENUE STATE",
+    "latitude": 7.3214,
+    "longitude": 8.9930
+  },
+  {
+    "BranchName": "GOMBE",
+    "Address": "BIU ROAD, GOMBE",
+    "latitude": 10.2897,
+    "longitude": 11.1673
+  },
+  {
+    "BranchName": "GUSAU",
+    "Address": "NO 49 SANI ABACHA WAY",
+    "latitude": 12.1629,
+    "longitude": 6.6613
+  },
+  {
+    "BranchName": "GWAGWALADA",
+    "Address": "PLOT R15, Cadastral Zone, 04-07, Opposite NIPOST, Gwagwalada District, Abuja",
+    "latitude": 8.9417,
+    "longitude": 7.0811
+  },
+  {
+    "BranchName": "GWARZO",
+    "Address": "Along Malumfashi Road, Gwarzo Town, Kano State",
+    "latitude": 11.9124,
+    "longitude": 7.9337
+  },
+  {
+    "BranchName": "AGBENI MARKET",
+    "Address": "92, AMUNIGUN ROAD, AGBENI MARKET, IBADAN, OYO STATE, NIGERIA",
+    "latitude": 7.3775,
+    "longitude": 3.9470
+  },
+  {
+    "BranchName": "BODIJA",
+    "Address": "PLOT 39, OSUNTOKUN AVENUE, BODIJA",
+    "latitude": 7.4220,
+    "longitude": 3.9090
+  },
+  {
+    "BranchName": "IBADAN",
+    "Address": "NO 1 OBAFEMI AWOLOWO WAY, J-ALLEN ROUND-ABOUT DUGBE",
+    "latitude": 7.3878,
+    "longitude": 3.8964
+  },
+  {
+    "BranchName": "IBADAN 3",
+    "Address": "108, LAGOS BYE-PASS, CHALLENGE, IBADAN",
+    "latitude": 7.376736,
+    "longitude": 3.939786
+  },
+  {
+    "BranchName": "IWO ROAD",
+    "Address": "NO 65, IWO ROAD, BEST WAY BUS STOP, IBADAN, OYO STATE",
+    "latitude": 7.376736,
+    "longitude": 3.939786
+  },
+  {
+    "BranchName": "MOKOLA",
+    "Address": "16, OYO ROAD, MOKOLA",
+    "latitude": 7.376736,
+    "longitude": 3.939786
+  },
+  {
+    "BranchName": "OJOO",
+    "Address": "OPPOSITE NISER ALONG UI-OJOO ROAD IBADAN OYO STATE",
+    "latitude": 7.376736,
+    "longitude": 3.939786
+  },
+  {
+    "BranchName": "OLUYOLE",
+    "Address": "NO 7, SEVEN-UP ROAD, OLUYOLE INDUSTRIAL ESTATE, OLUYOLE",
+    "latitude": 7.376736,
+    "longitude": 3.939786
+  },
+  {
+    "BranchName": "MOUNTAIN TOP UNIVERSITY",
+    "Address": "Mountain Top University Branch, KM 12, Lagos-Ibadan Expressway, MFM/Prayer City, Ogun State, Nigeria",
+    "latitude": 6.7678,
+    "longitude": 3.4391
+  },
+  {
+    "BranchName": "IHIALA",
+    "Address": "No 8 Umudimogo Road, Ihiala",
+    "latitude": 5.8530,
+    "longitude": 6.8526
+  },
+  {
+    "BranchName": "IJEBU ODE",
+    "Address": "1 IBADAN ROAD, PMB 2013",
+    "latitude": 6.8194,
+    "longitude": 3.9173
+  },
+  {
+    "BranchName": "ACME ROAD",
+    "Address": "Plot 12, Ogba Industrial Estate, Acme Road, Ogba",
+    "latitude": 6.6210,
+    "longitude": 3.3420
+  },
+  {
+    "BranchName": "AGIDINGBI",
+    "Address": "8/10, LATEEF JAKANDE RD, AGIDINGBI",
+    "latitude": 6.6210,
+    "longitude": 3.3420
+  },
+  {
+    "BranchName": "ALAUSA",
+    "Address": "Plot 1, Mobolaji Johnson Avenue, Ministry of Lands, Alausa Secretariat, Ikeja Lagos",
+    "latitude": 6.6210,
+    "longitude": 3.3420
+  },
+  {
+    "BranchName": "AROMIRE",
+    "Address": "5 AROMIRE AVENUE OFF ADENIYI JONES",
+    "latitude": 6.6210,
+    "longitude": 3.3420
+  },
+  {
+    "BranchName": "AWOLOWO WAY",
+    "Address": "83, Awolowo Way, Ikeja, Lagos",
+    "latitude": 6.6210,
+    "longitude": 3.3420
+  },
+  {
+    "BranchName": "INT'L AIRPORT TERMINAL",
+    "Address": "MMIA LAGOS",
+    "latitude": 6.5773,
+    "longitude": 3.3217
+  },
+  {
+    "BranchName": "LADIPO OLUWOLE",
+    "Address": "3A&B, LADIPO OLUWOLE STREET, OFF ADENIYI JONES AVENUE, IKEJA",
+    "latitude": 6.6210,
+    "longitude": 3.3420
+  },
+  {
+    "BranchName": "MEDICAL ROAD",
+    "Address": "8 SIMBIAT ABIOLA WAY",
+    "latitude": 6.6210,
+    "longitude": 3.3420
+  },
+  {
+    "BranchName": "OBA AKRAN 2",
+    "Address": "15 Oba Akran Avenue, Ikeja, Lagos State",
+    "latitude": 6.6210,
+    "longitude": 3.3420
+  },
+  {
+    "BranchName": "OLOWU",
+    "Address": "23 OLOWU STREET, OFF AWOLOWO WAY",
+    "latitude": 6.6210,
+    "longitude": 3.3420
+  },
+  {
+    "BranchName": "OREGUN",
+    "Address": "158A, OBAFEMI AWOLOWO WAY, IKEJA, LAGOS STATE",
+    "latitude": 6.6210,
+    "longitude": 3.3420
+  },
+  {
+    "BranchName": "ALLEN 2",
+    "Address": "64 ALLEN AVENUE, IKEJA, LAGOS STATE",
+    "latitude": 6.6210,
+    "longitude": 3.3420
+  },
+  {
+    "BranchName": "IKEJA",
+    "Address": "23 OBA AKRAN AVENUE, OPP. BERGER PAINTS NIG PLC, IKEJA, LAGOS",
+    "latitude": 6.6059,
+    "longitude": 3.3430
+  },
+  {
+    "BranchName": "IKOM",
+    "Address": "13, Obudu Road, Ikom",
+    "latitude": 5.9631,
+    "longitude": 8.7064
+  },
+  {
+    "BranchName": "IKORODU",
+    "Address": "45, Lagos Road, Benson Bus Stop, Ikorodu",
+    "latitude": 6.6194,
+    "longitude": 3.5103
+  },
+  {
+    "BranchName": "IKOT EKPENE",
+    "Address": "33 ABA ROAD, IKOT EKPENE",
+    "latitude": 5.1810,
+    "longitude": 7.7146
+  },
+  {
+    "BranchName": "IKOTUN",
+    "Address": "44, IKOTUN-IDIMU RD, ILE-EPO B/STOP, IKOTUN, LAGOS",
+    "latitude": 6.5583,
+    "longitude": 3.2736
+  },
+  {
+    "BranchName": "BOURDILLON",
+    "Address": "224A Awolowo Road, Ikoyi, Lagos",
+    "latitude": 6.4483,
+    "longitude": 3.4210
+  },
+  {
+    "BranchName": "FALOMO ROUND ABOUT",
+    "Address": "202 AWOLOWO ROAD IKOYI, FALOMO ROUND ABOUT, IKOYI",
+    "latitude": 6.4383,
+    "longitude": 3.4210
+  },
+  {
+    "BranchName": "SOUTH WEST IKOYI",
+    "Address": "8, KEFFI STREET, SOUTHWEST IKOYI, LAGOS",
+    "latitude": 6.4541,
+    "longitude": 3.4210
+  },
+  {
+    "BranchName": "ILE IFE",
+    "Address": "BESIDE MR BIGGS, ALONG LAGERE ROAD, ILE-IFE",
+    "latitude": 7.4826,
+    "longitude": 4.5624
+  },
+  {
+    "BranchName": "ILESHA",
+    "Address": "F59/61, ITA BALOGUN STREET",
+    "latitude": 7.6292,
+    "longitude": 4.7416
+  },
+  {
+    "BranchName": "ILORIN",
+    "Address": "No 6, Unity Road, Ilorin, Kwara State",
+    "latitude": 8.4966,
+    "longitude": 4.5421
+  },
+  {
+    "BranchName": "ILORIN 2",
+    "Address": "NO 136 ABDUL AZEEZ ATTAH ROAD, ILORIN, KWARA STATE",
+    "latitude": 8.4799,
+    "longitude": 4.5418
+  },
+  {
+    "BranchName": "ISOLO",
+    "Address": "9, MURTALA MOHAMMED INTERNATIONAL AIRPORT ROAD, LAGOS",
+    "latitude": 6.5518,
+    "longitude": 3.3430
+  },
+  {
+    "BranchName": "ISOLO ROAD",
+    "Address": "10A ISOLO ROAD, OPPOSITE LASPOTECH",
+    "latitude": 6.5350,
+    "longitude": 3.3430
+  },
+  {
+    "BranchName": "JALINGO",
+    "Address": "28/29 HAMMARUWA WAY, JALINGO",
+    "latitude": 8.8937,
+    "longitude": 11.3596
+  },
+  {
+    "BranchName": "JALINGO 2",
+    "Address": "Road Block Roundabout, Jalingo",
+    "latitude": 8.9000,
+    "longitude": 11.3667
+  },
+  {
+    "BranchName": "JOS",
+    "Address": "5, BEACH ROAD, JOS, PLATEAU STATE",
+    "latitude": 9.8965,
+    "longitude": 8.8583
+  },
+  {
+    "BranchName": "JOS 2",
+    "Address": "No 39 Ahmadu Bello Way, Jos",
+    "latitude": 9.8965,
+    "longitude": 8.8583
+  },
+  {
+    "BranchName": "KADUNA",
+    "Address": "No. 7 Kachia Road, Kaduna",
+    "latitude": 10.5105,
+    "longitude": 7.4165
+  },
+  {
+    "BranchName": "KADUNA 2",
+    "Address": "NO 9, YAKUBU GOWON WAY",
+    "latitude": 10.5105,
+    "longitude": 7.4165
+  },
+  {
+    "BranchName": "KADUNA 3",
+    "Address": "Q2 Kano Road, Doka, Kaduna",
+    "latitude": 10.5105,
+    "longitude": 7.4165
+  },
+  {
+    "BranchName": "KADUNA 4",
+    "Address": "No. 3 Race Course Road, Close to Murtala Square, Unguwan Sarki, Kaduna",
+    "latitude": 10.5105,
+    "longitude": 7.4165
+  },
+  {
+    "BranchName": "KADUNA 5",
+    "Address": "NNAMDI AZIKIWE EXPRESS BYPASS/DUTSINMA JUNCTION KADUNA",
+    "latitude": 10.5105,
+    "longitude": 7.4165
+  },
+  {
+    "BranchName": "KADUNA REFINERY",
+    "Address": "KM16 KACHIA ROAD",
+    "latitude": 10.5105,
+    "longitude": 7.4165
+  },
+  {
+    "BranchName": "KAFANCHAN",
+    "Address": "NO 4 ALONG KAGORO ROAD KAFANCHAN",
+    "latitude": 9.5818,
+    "longitude": 8.2923
+  },
+  {
+    "BranchName": "GWALE KABUGA",
+    "Address": "KM6, GWARZO ROAD, KANO",
+    "latitude": 12.0000,
+    "longitude": 8.5167
+  },
+  {
+    "BranchName": "HOTORO",
+    "Address": "ALONG KANO MAIDUGURI ROAD ADJACENT NNPC DEPOT KANO",
+    "latitude": 12.0000,
+    "longitude": 8.5167
+  },
+  {
+    "BranchName": "KANO",
+    "Address": "NO. 56 MURTALA MOHD/TAFAWA BALEWA ROAD KANO",
+    "latitude": 12.0000,
+    "longitude": 8.5167
+  },
+  {
+    "BranchName": "KANO 2",
+    "Address": "28A BELLO ROAD KANO",
+    "latitude": 12.0000,
+    "longitude": 8.5167
+  },
+  {
+    "BranchName": "KOFAR RUWA",
+    "Address": "DALA ORTHOPAEDIC ROAD, ADJACENT ALAJ PETROLEUM, KOFAR RUWA KANO",
+    "latitude": 12.0000,
+    "longitude": 8.5167
+  },
+  {
+    "BranchName": "NAIBAWA",
+    "Address": "Along Zaria Road, Naibawa, Kano",
+    "latitude": 12.0000,
+    "longitude": 8.5167
+  },
+  {
+    "BranchName": "SABON GARI",
+    "Address": "12 FRANCE ROAD, SABON GARI",
+    "latitude": 12.0000,
+    "longitude": 8.5167
+  },
+  {
+    "BranchName": "UNITY ROAD",
+    "Address": "No. 9 Unity Road, Kano State",
+    "latitude": 12.0000,
+    "longitude": 8.5167
+  },
+  {
+    "BranchName": "WUDIL",
+    "Address": "Gaya Road, Along Maiduguri Road, PMB 4405 Wudil, Kano State",
+    "latitude": 11.7942,
+    "longitude": 8.8390
+  },
+  {
+    "BranchName": "ZOO ROAD",
+    "Address": "NOS. 3A ZOO ROAD, KANO",
+    "latitude": 12.0000,
+    "longitude": 8.5167
+  },
+  {
+    "BranchName": "MARARABA 2",
+    "Address": "PLOT 17696, KM1 KEFFI ABUJA EXPRESS WAY, BESIDE BUILDING MATERIALS MARKET, MARARABA",
+    "latitude": 8.8833,
+    "longitude": 7.8667
+  },
+  {
+    "BranchName": "KATSINA",
+    "Address": "212 IBBA WAY",
+    "latitude": 12.9855,
+    "longitude": 7.6171
+  },
+  {
+    "BranchName": "KAZAURE",
+    "Address": "Plot 49/50, Daura Road",
+    "latitude": 12.6500,
+    "longitude": 8.4167
+  },
+  {
+    "BranchName": "KEFFI",
+    "Address": "BY KEFFI FLYOVER, ALONG KEFFI ABUJA EXPRESS WAY",
+    "latitude": 8.8480,
+    "longitude": 7.8736
+  },
+  {
+    "BranchName": "KONTAGORA",
+    "Address": "KTG 39, OFF LAGOS ROAD, OPPOSITE NEW MARKET, KONTAGORA",
+    "latitude": 10.4000,
+    "longitude": 5.4700
+  },
+  {
+    "BranchName": "KWALE",
+    "Address": "NO 104B UMUSADEGE ROAD KWALE DELTA STATE",
+    "latitude": 5.7076,
+    "longitude": 6.4361
+  },
+  {
+    "BranchName": "LAFIA",
+    "Address": "42 Jos Road",
+    "latitude": 8.4939,
+    "longitude": 8.5153
+  },
+  {
+    "BranchName": "ABALTI BARRACKS",
+    "Address": "37/39 WESTERN AVENUE OPPOSITE ABALTI BARRACKS OJUELEGBA",
+    "latitude": 6.5244,
+    "longitude": 3.3792
+  },
+  {
+    "BranchName": "ABULE EGBA",
+    "Address": "KM 342 Lagos/Abeokuta Expressway By Super Bus Stop, Abule Egba, Lagos",
+    "latitude": 6.5244,
+    "longitude": 3.3792
+  },
+  {
+    "BranchName": "ADENIRAN OGUNSANYA",
+    "Address": "58 ADENIRAN OGUNSANYA STREET SURULERE LAGOS",
+    "latitude": 6.5244,
+    "longitude": 3.3792
+  },
+  {
+    "BranchName": "ADENIYI JONES",
+    "Address": "NO 65 ADENIYI JONES, IKEJA LAGOS",
+    "latitude": 6.6059,
+    "longitude": 3.3491
+  },
+  {
+    "BranchName": "ADETOKUNBO ADEMOLA",
+    "Address": "PLOT 861, ADETOKUNBO ADEMOLA STREET, VICTORIA ISLAND, LAGOS",
+    "latitude": 6.5244,
+    "longitude": 3.3792
+  },
+  {
+    "BranchName": "AJAH",
+    "Address": "KM 25 Lekki-Epe Expressway, Beside Ajiwe Police Station",
+    "latitude": 6.5244,
+    "longitude": 3.3792
+  },
+  {
+    "BranchName": "AKOWONJO",
+    "Address": "32/34 Shasha Road, Akowonjo",
+    "latitude": 6.5244,
+    "longitude": 3.3792
+  },
+  {
+    "BranchName": "ALLEN AVENUE",
+    "Address": "23 ALLEN AVENUE IKEJA, LAGOS",
+    "latitude": 6.6059,
+    "longitude": 3.3491
+  },
+  {
+    "BranchName": "ALUMINIUM VILLAGE",
+    "Address": "4 GOULUS STREET, DOPEMU ROUND ABOUT, ALUMINIUM VILLAGE, DOPEMU",
+    "latitude": 6.5965,
+    "longitude": 3.3294
+  },
+  {
+    "BranchName": "AMUWO ODOFIN",
+    "Address": "PLOT 131, BLOCK 10, AMUWO ODOFIN RESIDENTIAL SCHEME, AMUWO ODOFIN, LAGOS",
+    "latitude": 6.4483,
+    "longitude": 3.3137
+  },
+  {
+    "BranchName": "APAPA ROAD",
+    "Address": "112-114, Apapa Road, Costain, Ebute-Metta, Lagos",
+    "latitude": 6.4779,
+    "longitude": 3.3781
+  },
+  {
+    "BranchName": "BADAGRY",
+    "Address": "19/21 Market Street, Badagry",
+    "latitude": 6.4185,
+    "longitude": 2.8853
+  },
+  {
+    "BranchName": "BAR BEACH",
+    "Address": "PLOT 74A ADEMOLA ADETOKUNBO, VICTORIA ISLAND",
+    "latitude": 6.4281,
+    "longitude": 3.4219
+  },
+  {
+    "BranchName": "BROAD STREET",
+    "Address": "72 BROAD STREET, MARINA",
+    "latitude": 6.4516,
+    "longitude": 3.3895
+  },
+  {
+    "BranchName": "CATHOLIC MISSION STREET",
+    "Address": "9/11 CATHOLIC MISSION STREET, LAGOS ISLAND, LAGOS",
+    "latitude": 6.4519,
+    "longitude": 3.3896
+  },
+  {
+    "BranchName": "CHARITY OSHODI",
+    "Address": "PLOT 14, OSHODI-APAPA EXPRESSWAY, OSHODI, LAGOS",
+    "latitude": 6.5583,
+    "longitude": 3.3431
+  },
+  {
+    "BranchName": "COLLEGE ROAD",
+    "Address": "76/78 COLLEGE ROAD, IDIAGBON BUS STOP, OGBA",
+    "latitude": 6.6355,
+    "longitude": 3.3336
+  },
+  {
+    "BranchName": "COMPUTER VILLAGE",
+    "Address": "NO 6 PEPPLE STREET OFF OLA AYENI STREET, IKEJA",
+    "latitude": 6.5961,
+    "longitude": 3.3430
+  },
+  {
+    "BranchName": "CREEK ROAD",
+    "Address": "8 Creek Road, Apapa, Lagos",
+    "latitude": 6.4452,
+    "longitude": 3.3672
+  },
+  {
+    "BranchName": "DOPEMU",
+    "Address": "KM 89 Lagos-Abeokuta Expressway, Dopemu, Lagos",
+    "latitude": 6.6204,
+    "longitude": 3.3430
+  },
+  {
+    "BranchName": "EJIGBO",
+    "Address": "Opposite NNPC Depot, Isolo-Egbe Road, Lagos",
+    "latitude": 6.5350,
+    "longitude": 3.3081
+  },
+  {
+    "BranchName": "ERIC MOORE",
+    "Address": "43 ERIC MOORE ROAD OFF BODE THOMAS, SURULERE, LAGOS",
+    "latitude": 6.4851,
+    "longitude": 3.3651
+  },
+  {
+    "BranchName": "FALOMO",
+    "Address": "176 AWOLOWO ROAD, IKOYI",
+    "latitude": 6.4483,
+    "longitude": 3.4219
+  },
+  {
+    "BranchName": "GOWON ESTATE",
+    "Address": "PLOT 160, 111 ROAD, D-CLOSE, IPAJA NEWTOWN, GOWON ESTATE, LAGOS",
+    "latitude": 6.6050,
+    "longitude": 3.2752
+  },
+  {
+    "BranchName": "HEAD OFFICE (ANNEX1)",
+    "Address": "PLOT 16 AJOSE ADEOGUN STREET, VICTORIA ISLAND, LAGOS",
+    "latitude": 6.4281,
+    "longitude": 3.4219
+  },
+  {
+    "BranchName": "HEAD OFFICE ANNEX 3",
+    "Address": "PLOT 272 AJOSE ADEOGUN STREET, VICTORIA ISLAND",
+    "latitude": 6.4281,
+    "longitude": 3.4219
+  },
+  {
+    "BranchName": "IDIMU",
+    "Address": "NO 211/213 Egbeda - Idimu Road, Egbeda, Lagos",
+    "latitude": 6.6018,
+    "longitude": 3.2820
+  },
+  {
+    "BranchName": "IDUMAGBO",
+    "Address": "82, ENUOWA STREET, IDUMAGBO, LAGOS ISLAND, LAGOS, NIGERIA",
+    "latitude": 6.4519,
+    "longitude": 3.3896
+  },
+  {
+    "BranchName": "IDUMOTA",
+    "Address": "18B EREKO STREET, IDUMOTA",
+    "latitude": 6.453056,
+    "longitude": 3.395833
+  },
+  {
+    "BranchName": "IJU",
+    "Address": "149 IJU ROAD, AGEGE, LAGOS",
+    "latitude": 6.6025,
+    "longitude": 3.345833
+  },
+  {
+    "BranchName": "IKEJA GRA",
+    "Address": "32, Sobo Arobiodu Street Off Isaac John, Nitel Ikeja GRA, Ikeja, Lagos State",
+    "latitude": 6.5611,
+    "longitude": 3.3583
+  },
+  {
+    "BranchName": "IKORODU 2",
+    "Address": "5, OBA SEKUMADE RD, EBUTE-IPAKODO, IKORODU, LAGOS",
+    "latitude": 6.6028,
+    "longitude": 3.5125
+  },
+  {
+    "BranchName": "IKORODU ROAD",
+    "Address": "152 IKORODU ROAD",
+    "latitude": 6.6028,
+    "longitude": 3.3458
+  },
+  {
+    "BranchName": "IKOYI",
+    "Address": "No, 32A, Awolowo Road, Ikoyi",
+    "latitude": 6.4531,
+    "longitude": 3.4194
+  },
+  {
+    "BranchName": "ILUPEJU",
+    "Address": "7/9 INDUSTRIAL AVENUE, ILUPEJU, LAGOS",
+    "latitude": 6.5286,
+    "longitude": 3.3583
+  },
+  {
+    "BranchName": "ILUPEJU 2",
+    "Address": "ILUPEJU 2 BRANCH, 201 IKORODU ROAD, OBANIKORO",
+    "latitude": 6.5286,
+    "longitude": 3.3583
+  },
+  {
+    "BranchName": "IPAJA",
+    "Address": "413b Lagos Abeokuta Express Way, Lagos",
+    "latitude": 6.6028,
+    "longitude": 3.3458
+  },
+  {
+    "BranchName": "ISAAC JOHN",
+    "Address": "55A (PLOT J 102A) ISAAC JOHN STREET, IKEJA GRA",
+    "latitude": 6.5611,
+    "longitude": 3.3583
+  },
+  {
+    "BranchName": "ITIRE",
+    "Address": "PLOT 10, BLOCK B, ILASAMAJA INDUSTRIAL ESTATE, APAPA-OSHODI EXPRESSWAY, ITIRE JUNCTION, ITIRE, LAGOS",
+    "latitude": 6.5286,
+    "longitude": 3.3583
+  },
+  {
+    "BranchName": "KETU",
+    "Address": "547, Ikorodu Road, Ketu, Lagos, Nigeria",
+    "latitude": 6.6028,
+    "longitude": 3.3458
+  },
+  {
+    "BranchName": "KINGSWAY",
+    "Address": "2 AROMIRE STREET OFF ALFRED REWANE ROAD, IKOYI, LAGOS",
+    "latitude": 6.4531,
+    "longitude": 3.4194
+  },
+  {
+    "BranchName": "KOFO ABAYOMI",
+    "Address": "Plot 43, Kofo Abayomi Street, Victoria Island, Lagos",
+    "latitude": 6.4531,
+    "longitude": 3.4194
+  },
+  {
+    "BranchName": "LAGOS CENTRAL",
+    "Address": "NO 9, JOSEPH HARDEN STREET, LAGOS ISLAND",
+    "latitude": 6.4531,
+    "longitude": 3.4194
+  },
+  {
+    "BranchName": "LEKKI",
+    "Address": "PLOT 6, LAYI YUSUF CRESCENT, OFF ADMIRALTY WAY, LEKKI, LAGOS",
+    "latitude": 6.4531,
+    "longitude": 3.4194
+  },
+  {
+    "BranchName": "LEKKI EXPRESSWAY 2",
+    "Address": "12, BLOCK 113A, LEKKI PENINSULA RESIDENTIAL SCHEME, LEKKI",
+    "latitude": 6.4531,
+    "longitude": 3.4194
+  },
+  {
+    "BranchName": "LIVERPOOL",
+    "Address": "3B, POINT ROAD, LIVERPOOL, APAPA, LAGOS",
+    "latitude": 6.4531,
+    "longitude": 3.4194
+  },
+  {
+    "BranchName": "MARINA",
+    "Address": "58, MARINA",
+    "latitude": 6.4531,
+    "longitude": 3.4194
+  },
+  {
+    "BranchName": "MARINA 2",
+    "Address": "10, ABIBU OKI STREET, MARINA, LAGOS",
+    "latitude": 6.4531,
+    "longitude": 3.4194
+  },
+  {
+    "BranchName": "MOBOLAJI BANK",
+    "Address": "BLK 1, PLOT 1, MOBOLAJI BANK ANTHONY ROAD, MARYLAND",
+    "latitude": 6.5523,
+    "longitude": 3.3587
+  },
+  {
+    "BranchName": "OGBA 2",
+    "Address": "NO 42, IJAIYE ROAD, CATERPILLAR BUS STOP, OGBA",
+    "latitude": 6.5865,
+    "longitude": 3.3582
+  },
+  {
+    "BranchName": "OGUNLANA DRIVE",
+    "Address": "162 OGUNLANA DRIVE BRANCH, SURULERE",
+    "latitude": 6.5241,
+    "longitude": 3.3585
+  },
+  {
+    "BranchName": "OJOKORO",
+    "Address": "KM 27 LAGOS ABEOKUTA EXPRESSWAY, AJALA BUS-STOP",
+    "latitude": 6.6167,
+    "longitude": 3.3500
+  },
+  {
+    "BranchName": "OKE ARIN",
+    "Address": "135 BROAD STREET, LAGOS",
+    "latitude": 6.4965,
+    "longitude": 3.3750
+  },
+  {
+    "BranchName": "OKOTA",
+    "Address": "103 Okota Road, Okota",
+    "latitude": 6.5520,
+    "longitude": 3.3275
+  },
+  {
+    "BranchName": "OLD OJO ROAD",
+    "Address": "45 OLD OJO ROAD BY MAZA-MAZA BUS STOP, OPPOSITE FESTAC 1ST GATE",
+    "latitude": 6.4975,
+    "longitude": 3.3275
+  },
+  {
+    "BranchName": "OPEBI",
+    "Address": "85, OPEBI ROAD, OPEBI, IKEJA",
+    "latitude": 6.5616,
+    "longitude": 3.3582
+  },
+  {
+    "BranchName": "OREGUN 2",
+    "Address": "21, KUDIRAT ABIOLA WAY, OREGUN, LAGOS STATE",
+    "latitude": 6.5616,
+    "longitude": 3.3582
+  },
+  {
+    "BranchName": "OZUMBA MBADIWE",
+    "Address": "Plot 168 Ozumba Mbadiwe Street, Victoria Island, Lagos",
+    "latitude": 6.4286,
+    "longitude": 3.4211
+  },
+  {
+    "BranchName": "PALM AVENUE",
+    "Address": "309, AGEGE MOTOR ROAD, OLORUNSOGO BUS-STOP, MUSHIN",
+    "latitude": 6.5241,
+    "longitude": 3.3585
+  },
+  {
+    "BranchName": "SAKA TINUBU",
+    "Address": "PLOT 29 SAKA TINUBU STREET, VICTORIA ISLAND, LAGOS",
+    "latitude": 6.4286,
+    "longitude": 3.4211
+  },
+  {
+    "BranchName": "SANUSI FAFUNWA",
+    "Address": "31, SANUSI FAFUNWA STREET, VICTORIA ISLAND",
+    "latitude": 6.4286,
+    "longitude": 3.4211
+  },
+  {
+    "BranchName": "SATELLITE TOWN",
+    "Address": "436 OLD OJO ROAD, SATELLITE TOWN",
+    "latitude": 6.4975,
+    "longitude": 3.3275
+  },
+  {
+    "BranchName": "ST. FINBARRS ROAD",
+    "Address": "47 ST FINBARRS ROAD, AKOKA, YABA",
+    "latitude": 6.5241,
+    "longitude": 3.3585
+  },
+  {
+    "BranchName": "SURULERE",
+    "Address": "86 OJUELEGBA ROAD",
+    "latitude": 6.5241,
+    "longitude": 3.3585
+  },
+  {
+    "BranchName": "TEJUOSHO",
+    "Address": "65 TEJUOSHO ROAD, YABA",
+    "latitude": 6.5241,
+    "longitude": 3.3585
+  },
+  {
+    "BranchName": "TEJUOSHO MARKET",
+    "Address": "TEJUOSHO ULTRA MODERN SHOPPING CENTER, OJUELEGBA ROAD, YABA",
+    "latitude": 6.5241,
+    "longitude": 3.3585
+  },
+  {
+    "BranchName": "TRADE FAIR",
+    "Address": "Plaza 10, Int'l Trade Fair Complex Centre (B.B.A), Intel Trade Fair Complex, Lagos Badagry Expressway, Lagos",
+    "latitude": 6.4975,
+    "longitude": 3.3275
+  },
+  {
+    "BranchName": "YABATECH",
+    "Address": "Inside Yabatech, Opposite the Yabatech MicroFinance Bank",
+    "latitude": 6.5241,
+    "longitude": 3.3585
+  },
+  {
+    "BranchName": "AHMADU BELLO WAY V/I",
+    "Address": "SLEEK STUDIO SQUARE, 141 AHMADU BELLO WAY, VI, LAGOS",
+    "latitude": 6.4285,
+    "longitude": 3.4212
+  },
+  {
+    "BranchName": "LEKKI EXPRESSWAY",
+    "Address": "1, TRUDDY EBHODAGHE CRESCENT, OSAPA LONDON, LAGOS, NIGERIA",
+    "latitude": 6.4403,
+    "longitude": 3.5772
+  },
+  {
+    "BranchName": "MARYLAND",
+    "Address": "1A IKORODU ROAD, MARYLAND HOUSING ESTATE, MARYLAND",
+    "latitude": 6.5392,
+    "longitude": 3.3580
+  },
+  {
+    "BranchName": "MOLONEY",
+    "Address": "20/22 MOLONEY STREET, ONIKAN, LAGOS STATE",
+    "latitude": 6.4541,
+    "longitude": 3.3914
+  },
+  {
+    "BranchName": "OLOSA",
+    "Address": "11A, OLOSA STREET, VICTORIA ISLAND, LAGOS",
+    "latitude": 6.4285,
+    "longitude": 3.4212
+  },
+  {
+    "BranchName": "EBUTE ERO",
+    "Address": "101 ALAKORO STREET, EBUTE ERO, LAGOS ISLAND, LAGOS",
+    "latitude": 6.4944,
+    "longitude": 3.3847
+  },
+  {
+    "BranchName": "OKE ARIN 2",
+    "Address": "46, SANUSI OLUSI STREET, OKE-ARIN",
+    "latitude": 6.4944,
+    "longitude": 3.3847
+  },
+  {
+    "BranchName": "COLLEGE OF MEDICINE",
+    "Address": "LUTH COLLEGE GATE, MUSHIN, LAGOS",
+    "latitude": 6.5208,
+    "longitude": 3.3425
+  },
+  {
+    "BranchName": "ADMIRALTY WAY",
+    "Address": "29A ADMIRALTY WAY, LEKKI PHASE 1",
+    "latitude": 6.4325,
+    "longitude": 3.5425
+  },
+  {
+    "BranchName": "LOKOJA",
+    "Address": "OLD KABBA ROAD, OPP. STELLA OBASANJO LIBRARY",
+    "latitude": 7.8203,
+    "longitude": 6.0756
+  },
+  {
+    "BranchName": "AIRPORT ROAD",
+    "Address": "58 AIRPORT ROAD, MAFOLUKU, LAGOS.",
+    "latitude": 6.5587,
+    "longitude": 3.3508
+  },
+  {
+    "BranchName": "MAGODO",
+    "Address": "5 CMD ROAD, SHANGISHA MAGODO LAGOS",
+    "latitude": 6.5893,
+    "longitude": 3.3589
+  },
+  {
+    "BranchName": "MAIDUGURI 3",
+    "Address": "ALONG SHEHU SANDAKURE ROAD MAIDUGURI",
+    "latitude": 11.8519,
+    "longitude": 13.1564
+  },
+  {
+    "BranchName": "MAIDUGURI",
+    "Address": "NO 7 SHEHU LAMINU WAY, P.M.B 1146",
+    "latitude": 11.8500,
+    "longitude": 13.1544
+  },
+  {
+    "BranchName": "MAIDUGURI 2",
+    "Address": "No 28 kashim Ibrahim Avenue, Maiduguri, Borno state",
+    "latitude": 11.8500,
+    "longitude": 13.1544
+  },
+  {
+    "BranchName": "GANA STREET",
+    "Address": "PLOT 620 GANA STREET",
+    "latitude": 9.0736,
+    "longitude": 7.4866
+  },
+  {
+    "BranchName": "MAKURDI",
+    "Address": "12/14 RAILWAY BYPASS, HIGH LEVEL, MAKURDI",
+    "latitude": 7.7350,
+    "longitude": 8.5735
+  },
+  {
+    "BranchName": "MAKURDI 2",
+    "Address": "MAKURDI 2 BRANCH, OPPOSITE YAMAN PARK, OTUKPO ROAD WURUKUM, MAKURDI, BENUE STATE.",
+    "latitude": 7.7350,
+    "longitude": 8.5735
+  },
+  {
+    "BranchName": "MARARABA",
+    "Address": "KM1, ABUJA -KEFFI EXP.WAY, BESIDE BUILDING MATERIALS MARKET, NYANYA MARARABA.",
+    "latitude": 8.9315,
+    "longitude": 7.2583
+  },
+  {
+    "BranchName": "MINNA",
+    "Address": "Plot 1300, Paiko Road",
+    "latitude": 9.6247,
+    "longitude": 6.5924
+  },
+  {
+    "BranchName": "MINNA 2",
+    "Address": "PLOT 217, BOSSO ROAD, GOVERNMENT HOUSE JUNCTION.",
+    "latitude": 9.6167,
+    "longitude": 6.5500
+  },
+
+  {
+    "BranchName": "REDEMPTION CAMP",
+    "Address": "KM 46, LAGOS-IBADAN EXPRESSWAY, REDEMPTION CAMP",
+    "latitude": 6.8000,
+    "longitude": 3.3500
+  },
+  {
+    "BranchName": "MPAPE",
+    "Address": "PLOT MF50A CADASTRAL ZONE 08 MPAPE",
+    "latitude": 9.0500,
+    "longitude": 7.5000
+
+  },
+  {
+    "BranchName": "MUBI",
+    "Address": "88A, AHMADU BELLO WAY, MUBI",
+    "latitude": 10.2667,
+    "longitude": 13.2500
+  },
+  {
+    "BranchName": "IDI ORO",
+    "Address": "128 Agege Motor Road, Idi Oro, Mushin, Lagos",
+    "latitude": 6.5500,
+    "longitude": 3.3500
+  },
+  {
+    "BranchName": "MATORI",
+    "Address": "133 LADIPO STREET, MATORI, MUSHIN, LAGOS.",
+    "latitude": 6.5500,
+    "longitude": 3.3500
+  },
+  {
+    "BranchName": "NKPOR",
+    "Address": "NO 3 OKOSISI LANE, NEW AUTO SPARE PARTS MARKET, NKPOR",
+    "latitude": 6.1500,
+    "longitude": 6.9000
+  },
+  {
+    "BranchName": "NNEWI",
+    "Address": "4 EDO EZEMEWI ROAD, NNEWI",
+    "latitude": 6.0500,
+    "longitude": 6.9000
+  },
+  {
+    "BranchName": "NSUKKA",
+    "Address": "NO. 55 ENUGU ROAD, NSUKKA",
+    "latitude": 6.8500,
+    "longitude": 7.3500
+  },
+  {
+    "BranchName": "OBAJANA",
+    "Address": "Opposite Dangote Cement Factory, Mining Road, Off Kabba Road.",
+    "latitude": 7.5000,
+    "longitude": 6.5000
+  },
+  {
+    "BranchName": "MOLONEY",
+    "Address": "20/22 MOLONEY STREET, OBALENDE, LAGOS, NIGERIA.",
+    "latitude": 6.5000,
+    "longitude": 3.4000
+  },
+  {
+    "BranchName": "OFFA",
+    "Address": "NO 20 OLOFFA WAY, OFFA, KWARA STATE",
+    "latitude": 8.1500,
+    "longitude": 4.6500
+  },
+  {
+    "BranchName": "OGBOMOSHO",
+    "Address": "137, ILORIN ROAD, OPP. ANGLICAN GRAMMAR SCHOOL, SABO, OGBOMOSO",
+    "latitude": 8.1500,
+    "longitude": 4.2500
+  },
+  {
+    "BranchName": "OGIDI",
+    "Address": "KM I5 ENUGU- ONITSHA EXPRESS WAY, OGIDI, OPP BUILDING MATERIAL MARKET.",
+    "latitude": 6.1500,
+    "longitude": 6.9000
+  },
+  {
+    "BranchName": "OGOJA",
+    "Address": "PLOT MLA 20, HOSPITAL ROAD, IGOLI-OGOJA, CROSS RIVER STATE, NIGERIA.",
+    "latitude": 6.1500,
+    "longitude": 9.3000
+  },
+  {
+    "BranchName": "OHAFIA",
+    "Address": "211 Arochukwu Road",
+    "latitude": 5.5000,
+    "longitude": 7.5000
+  },
+  {
+    "BranchName": "ALABA 2",
+    "Address": "12 ST PATRICK'S STREET, ALABA INT'L MARKET, OJO, LAGOS",
+    "latitude": 6.5000,
+    "longitude": 3.4000
+  },
+  {
+    "BranchName": "ALABA INTERNATIONAL",
+    "Address": "ALABA INT'L BRANCH, (ROCKY ELECTRONIC PLAZA) DOBBIL PLAZA AVE, OJO",
+    "latitude": 6.5000,
+    "longitude": 3.4000
+  },
+  {
+    "BranchName": "ASPAMDA TRADE FAIR",
+    "Address": "HALL 10, OLU OBASANJO HALL, INT'L TRADE FAIR",
+    "latitude": 6.5000,
+    "longitude": 3.4000
+  },
+  {
+    "BranchName": "LASU",
+    "Address": "LAGOS STATE UNIVERSITY PREMISES, LAGOS BADAGRY EXPRESS WAY",
+    "latitude": 6.466944,
+    "longitude": 3.183333
+  },
+  {
+    "BranchName": "OJODU",
+    "Address": "1B, Bashorun Street, Isheri Ojodu Road, Ojodu Lagos",
+    "latitude": 6.616667,
+    "longitude": 3.366667
+  },
+  {
+    "BranchName": "OGUDU",
+    "Address": "147 OGUDU ROAD",
+    "latitude": 6.566667,
+    "longitude": 3.366667
+  },
+  {
+    "BranchName": "OKADA",
+    "Address": "IGBINEDION UNIVERSITY OKADA",
+    "latitude": 6.616667,
+    "longitude": 5.616667
+  },
+  {
+    "BranchName": "OKENE",
+    "Address": "5, OHINOYI CRESCENT, G.R.A OKENE, KOGI STATE.",
+    "latitude": 7.550000,
+    "longitude": 6.150000
+  },
+  {
+    "BranchName": "OKIGWE",
+    "Address": "144 OWERRI ROAD, OKIGWE",
+    "latitude": 5.533333,
+    "longitude": 7.300000
+  },
+  {
+    "BranchName": "TRINITY",
+    "Address": "PLOT 36 APAPA OSHODI EXPRESSWAY, LAGOS.",
+    "latitude": 6.500000,
+    "longitude": 3.350000
+  },
+  {
+    "BranchName": "ONDO TOWN",
+    "Address": "5, OMIMODE STREET, YABA, ONDO TOWN, ONDO STATE.",
+    "latitude": 7.150000,
+    "longitude": 4.850000
+  },
+  {
+    "BranchName": "BRIDGE HEAD",
+    "Address": "18, PORT HARCOURT ROAD BRIDGE HEAD ONITSHA",
+    "latitude": 6.150000,
+    "longitude": 6.800000
+  },
+  {
+    "BranchName": "ELECTRONICS MARKET",
+    "Address": "PLOT 77, ONITSHA - ENUGU EXPRESSWAY, ONITSHA",
+    "latitude": 6.150000,
+    "longitude": 6.800000
+  },
+  {
+    "BranchName": "NEW MARKET ROAD",
+    "Address": "NO. 8, NEW MARKET ROAD.",
+    "latitude": 6.150000,
+    "longitude": 6.800000
+  },
+  {
+    "BranchName": "ONITSHA",
+    "Address": "50 NEW MARKET ROAD, ONITSHA",
+    "latitude": 6.150000,
+    "longitude": 6.800000
+  },
+  {
+    "BranchName": "RELIEF MARKET",
+    "Address": "KM 3 ONITSHA-OWERRI ROAD, P.M.B 1859 ONITSHA",
+    "latitude": 6.150000,
+    "longitude": 6.800000
+  },
+  {
+    "BranchName": "ORE",
+    "Address": "109, Okitipupa-Ore Road",
+    "latitude": 6.750000,
+    "longitude": 4.850000
+  },
+  {
+    "BranchName": "ORLU",
+    "Address": "NO 6 AMAIGBO ROAD",
+    "latitude": 5.750000,
+    "longitude": 7.083333
+  },
+  {
+    "BranchName": "BOLADE OSHODI",
+    "Address": "553, AGEGE MOTOR ROAD, LADIPO BUS STOP, SHOGUNLE (BEHIND IKEJA GRA)",
+    "latitude": 6.550000,
+    "longitude": 3.350000
+  },
+  {
+    "BranchName": "OSHOGBO",
+    "Address": "39, GBONGAN-IBADAN ROAD OPP OSUN MALL (JUSTRITE), OLD FAKUNLE HIGH SCHOOL, OSOGBO",
+    "latitude": 7.783333,
+    "longitude": 4.550000
+  },
+  {
+    "BranchName": "OSHOGBO 2",
+    "Address": "4, OKE FIA ROAD, BESIDE SPICES EATERY",
+    "latitude": 7.783333,
+    "longitude": 4.550000
+  },
+  {
+    "BranchName": "SANGO OTA 2",
+    "Address": "KM 49, ABEOKUTA LAGOS EXPRESSWAY, JOJU BUS STOP, SANGO OTTA, OGUN STATE",
+    "latitude": 6.700000,
+    "longitude": 3.350000
+  },
+  {
+    "BranchName": "OTUKPO",
+    "Address": "21/23 AHMADU BELLO WAY, OTUKPO.",
+    "latitude": 7.200000,
+    "longitude": 8.100000
+  },
+  {
+    "BranchName": "AGBOR 2",
+    "Address": "17/19 OLD LAGOS ASABA ROAD, BOJI BOJI OWA",
+    "latitude": 5.93447,
+    "longitude": 6.18755
+  },
+  {
+    "BranchName": "BANK ROAD (OWERRI 3)",
+    "Address": "PLOT CP 19, GOVERNMENT STATION LAYOUT, BANK ROAD, OWERRI",
+    "latitude": 5.45197,
+    "longitude": 7.02937
+  },
+  {
+    "BranchName": "OWERRI",
+    "Address": "106 WETHERAL ROAD, OPPOSITE DAN ANYIAM STADIUM",
+    "latitude": 5.45031,
+    "longitude": 7.02996
+  },
+  {
+    "BranchName": "OWERRI 2",
+    "Address": "120 DOUGLAS ROAD BRANCH, OWERRI, IMO STATE",
+    "latitude": 5.45476,
+    "longitude": 7.03618
+  },
+  {
+    "BranchName": "OWODE",
+    "Address": "84, LAGOS-IDIROKO ROAD, SABO, OWODE YEWA",
+    "latitude": 6.90119,
+    "longitude": 3.28388
+  },
+  {
+    "BranchName": "OYO TOWN",
+    "Address": "AKUNLEMU AREA, OPPOSITE AWE JUNCTION, OGBOMOSO ROAD, OYO",
+    "latitude": 7.77168,
+    "longitude": 3.92553
+  },
+  {
+    "BranchName": "OZORO",
+    "Address": "81 OZORO KWALE ROAD, OZORO",
+    "latitude": 5.52196,
+    "longitude": 6.21258
+  },
+  {
+    "BranchName": "TRANS AMADI 2",
+    "Address": "PLOT 11, TRANS AMADI INDUSTRIAL LAYOUT",
+    "latitude": 4.84849,
+    "longitude": 7.03365
+  },
+  {
+    "BranchName": "ABA ROAD P/H",
+    "Address": "PLOT 175, ABA ROAD, PORT HARCOURT",
+    "latitude": 4.81535,
+    "longitude": 7.01398
+  },
+  {
+    "BranchName": "ABA ROAD/ORIJE",
+    "Address": "40 ABA ROAD, OPPOSITE CORPUS CHRISTI CATHEDRAL",
+    "latitude": 4.81867,
+    "longitude": 7.01224
+  },
+  {
+    "BranchName": "IKWERRE ROAD, P/H",
+    "Address": "126 Ikwerre Road, Mile 2, Diobu",
+    "latitude": 4.80524,
+    "longitude": 7.02398
+  },
+  {
+    "BranchName": "OGINIGBA",
+    "Address": "PLOT 147, TRANS AMADI INDUSTRIAL AREA, OGINIGBA, PORT HARCOURT, RIVERS STATE",
+    "latitude": 4.85857,
+    "longitude": 7.03384
+  },
+  {
+    "BranchName": "ONNE",
+    "Address": "ALONG FLT ROAD, NEAR SCHOOL OF AGRICULTURE, ONNE",
+    "latitude": 4.77256,
+    "longitude": 7.27691
+  },
+  {
+    "BranchName": "OYIGBO",
+    "Address": "PLOT 29, LOCATION ROAD, OYIGBO",
+    "latitude": 4.89463,
+    "longitude": 7.06349
+  },
+  {
+    "BranchName": "PORT HARCOURT",
+    "Address": "PLOT 1 & 2, PRESIDENTIAL ESTATE ROAD BY MUMMY B/EZIMBGU LINK ROAD, GRA JUNCTION, ABA ROAD",
+    "latitude": 4.81259,
+    "longitude": 7.01464
+  },
+
+  {
+    "BranchName": "RUMUIBEKWE",
+    "Address": "PLOT 5, PORT HARCOURT/ABA EXPRESSWAY, OPPOSITE SHELL RESIDENTIAL AREA, ABA ROAD, PORT HARCOURT, RIVERS STATE",
+    "latitude": 4.79588,
+    "longitude": 7.03009
+  },
+  {
+    "BranchName": "RUMUKWURUSHI",
+    "Address": "319 ABA ROAD, RUMUKWURUSHI, OPPOSITE OIL MILL MARKET, PORT HARCOURT",
+    "latitude": 4.79846,
+    "longitude": 7.02389
+  },
+  {
+    "BranchName": "RUMUOKORO",
+    "Address": "EAST WEST ROAD, RUMUOKORO, PORT HARCOURT",
+    "latitude": 4.81112,
+    "longitude": 7.04252
+  },
+  {
+    "BranchName": "RUMUOLA",
+    "Address": "73 RUMUOLA ROAD, PORT HARCOURT",
+    "latitude": 4.81956,
+    "longitude": 7.00373
+  },
+  {
+    "BranchName": "WOJI",
+    "Address": "61/63 WOJI ESTATE ROAD, WOJI, PORT HARCOURT",
+    "latitude": 4.824167,
+    "longitude": 7.033611
+  },
+  {
+    "BranchName": "UNIPORT",
+    "Address": "UNIVERSITY OF PORT HARCOURT, ABUJA CAMPUS PARK, CHOBA",
+    "latitude": 4.824167,
+    "longitude": 7.033611
+  },
+  {
+    "BranchName": "AZIKIWE ROAD",
+    "Address": "15 AZIKIWE ROAD, PORT HARCOURT",
+    "latitude": 4.824167,
+    "longitude": 7.033611
+  },
+  {
+    "BranchName": "OLU OBASANJO",
+    "Address": "117, OLU OBASANJO ROAD, GRA PHASE 2, PORT HARCOURT.",
+    "latitude": 4.824167,
+    "longitude": 7.033611
+  },
+  {
+    "BranchName": "POTISKUM",
+    "Address": "Plot 1469/1470, Mohammed Idris Way, Opp. FCE(T), Sabon Gari Layout, Potiskum. Tel: (074) 420140, 420999, 420075, 420072. Fax: (074) 420008.",
+    "latitude": 11.133333,
+    "longitude": 11.116667
+  },
+  {
+    "BranchName": "SAKI",
+    "Address": "Opposite Saki West Local Government Secretariat, Along Fatai Giwa Street, Oke Dio, Saki",
+    "latitude": 8.266667,
+    "longitude": 3.000000
+  },
+  {
+    "BranchName": "SANGO OTA",
+    "Address": "KM 37, LAGOS-ABEOKUTA EXPRESSWAY, DALEMO",
+    "latitude": 6.666667,
+    "longitude": 3.000000
+  },
+  {
+    "BranchName": "SANGO OTA 3",
+    "Address": "KLM 111, IDIROKO ROAD, OTA, OGUN STATE",
+    "latitude": 6.68867,
+    "longitude": 3.23202
+  },
+  {
+    "BranchName": "SAPELE",
+    "Address": "130, SAPELE/WARRI ROAD, OKIRIGHWRE",
+    "latitude": 5.500000,
+    "longitude": 5.993834
+  },
+  {
+    "BranchName": "SHAGAMU",
+    "Address": "No. 161, Akarigbo Street, Ajegunle Junction, Shagamu",
+    "latitude": 6.900000,
+    "longitude": 3.666667
+  },
+  {
+    "BranchName": "SOKOTO",
+    "Address": "Sokoto",
+    "latitude": 13.066667,
+    "longitude": 5.250000
+  },
+  {
+    "BranchName": "SOKOTO 2",
+    "Address": "No. 1 ABDULLAHI FODIO ROAD, SOKOTO",
+    "latitude": 13.0572362,
+    "longitude": 5.2208987
+  },
+  {
+    "BranchName": "SOKOTO 3",
+    "Address": "85/86 EMIR YAHAYA ROAD, SOKOTO, SOKOTO STATE",
+    "latitude": 13.0520828,
+    "longitude": 5.2370333
+  },
+  {
+    "BranchName": "SULEJA",
+    "Address": "NO 53, UMAR FAROUK ROAD, SULEJA",
+    "latitude": 9.083333,
+    "longitude": 7.500000
+  },
+  {
+    "BranchName": "AGUDA",
+    "Address": "NO 13/15 ENITAN STREET, AGUDA, SURULERE, LAGOS",
+    "latitude": 6.500000,
+    "longitude": 3.350000
+  },
+  {
+    "BranchName": "ALAKA",
+    "Address": "1 WESTERN AVENUE, ALAKA, SURULERE",
+    "latitude": 6.500000,
+    "longitude": 3.350000
+  },
+  {
+    "BranchName": "LAWANSON",
+    "Address": "27/29 LAWANSON ROAD, LAWANSON, SURULERE.",
+    "latitude": 6.500000,
+    "longitude": 3.350000
+  },
+  {
+    "BranchName": "TALATA MAFARA",
+    "Address": "Zenith Bank PLC, Talata Mafara Branch, Sokoto-Gusau Road, Talata Mafara, Zamfara State.",
+    "latitude": 12.500000,
+    "longitude": 6.000000
+  },
+  {
+    "BranchName": "UGHELLI",
+    "Address": "78/80 MARKET ROAD",
+    "latitude": 5.500000,
+    "longitude": 5.993834
+  },
+  {
+    "BranchName": "UMUAHIA",
+    "Address": "NO. 2 LIBRARY AVENUE, UMUAHIA, ABIA STATE",
+    "latitude": 5.533333,
+    "longitude": 7.500000
+  },
+  {
+    "BranchName": "UMUAHIA 2",
+    "Address": "41, IMO LANE, OFF UZUAKOLI ROAD, UMUAHIA, ABIA STATE",
+    "latitude": 5.533333,
+    "longitude": 7.500000
+  },
+  {
+    "BranchName": "UMUNZE",
+    "Address": "UMUNZE ROUNDABOUT, ALONG UMUNZE - OGBUNKA ROAD, ANAMBRA STATE.",
+    "latitude": 5.576667,
+    "longitude": 7.163333
+  },
+  {
+    "BranchName": "UROMI",
+    "Address": "20 MISSION ROAD, UROMI, EDO STATE",
+    "latitude": 6.533333,
+    "longitude": 6.933333
+  },
+  {
+    "BranchName": "AKA ROAD",
+    "Address": "PLOT 19, AKA ROAD",
+    "latitude": 5.040000,
+    "longitude": 7.920000
+  },
+  {
+    "BranchName": "UYO",
+    "Address": "Plot 4, Bank Layout, Udo Udoma Avenue, PMB 1250, Uyo, Akwa Ibom State",
+    "latitude": 5.050000,
+    "longitude": 7.933333
+  },
+  {
+    "BranchName": "UYO 3",
+    "Address": "PLOT 185, ORON ROAD, UYO",
+    "latitude": 5.050000,
+    "longitude": 7.933333
+  },
+  {
+    "BranchName": "UYO 4",
+    "Address": "12 Abak Road, Abak Housing Estate",
+    "latitude": 5.050000,
+    "longitude": 7.933333
+  },
+  {
+    "BranchName": "IKOTA SHOPPING COMPLEX",
+    "Address": "RD 1, VGC/IKOTA SHOPPING COMPLEX",
+    "latitude": 6.500000,
+    "longitude": 3.500000
+  },
+  {
+    "BranchName": "ADEOLA ODEKU 2",
+    "Address": "PLOT 300, ADEOLA ODEKU STREET, VICTORIA ISLAND, LAGOS",
+    "latitude": 6.425000,
+    "longitude": 3.426667
+  },
+  {
+    "BranchName": "ADEYEMO ALAKIJA",
+    "Address": "4A, ADEYEMO ALAKIJA STREET",
+    "latitude": 6.425000,
+    "longitude": 3.426667
+  },
+  {
+    "BranchName": "AKIN ADESOLA",
+    "Address": "10B AKINSOLA STREET",
+    "latitude": 6.427500,
+    "longitude": 3.425833
+  },
+  {
+    "BranchName": "HEAD OFFICE ANNEX 2",
+    "Address": "Plot 277, Ajose Adeogun Street, Victoria Island, Lagos",
+    "latitude": 6.427500,
+    "longitude": 3.425833
+  },
+  {
+    "BranchName": "HEAD OFFICE ANNEX 4",
+    "Address": "101A AJOSE ADEOGUN STREET",
+    "latitude": 6.427500,
+    "longitude": 3.425833
+  },
+  {
+    "BranchName": "LIGALI AYORINDE",
+    "Address": "1 A&B Kayode Abraham Street, Off Ligali Ayorinde Street, Oniru, Victoria Island",
+    "latitude": 6.427500,
+    "longitude": 3.425833
+  },
+  {
+    "BranchName": "MURI OKUNOLA",
+    "Address": "232A Muri Okunola Street",
+    "latitude": 6.426667,
+    "longitude": 3.425833
+  },
+  {
+    "BranchName": "OZUMBA MBADIWE",
+    "Address": "PLOT 873, OZUMBA MBADIWE AVENUE, VICTORIA ISLAND, LAGOS",
+    "latitude": 6.427500,
+    "longitude": 3.425833
+
+  },
+  {
+    "BranchName": "VICTORIA ISLAND",
+    "Address": "234A, ADEOLA ODEKU STREET",
+    "latitude": 6.427500,
+    "longitude": 3.425833
+  },
+  {
+    "BranchName": "EFFURUN",
+    "Address": "NO 59, EFFURUN - SAPELE ROAD, EFFURUN, OPPOSITE PZ CUSSONS, EFFURUN",
+    "latitude": 5.604722,
+    "longitude": 5.705833
+  },
+  {
+    "BranchName": "EKPAN",
+    "Address": "62 HOSPITAL ROAD, EKPAN, DELTA STATE",
+    "latitude": 5.621667,
+    "longitude": 5.748611
+  },
+  {
+    "BranchName": "PTI ROAD",
+    "Address": "142, PTI ROAD, WARRI, DELTA STATE",
+    "latitude": 5.621667,
+    "longitude": 5.748611
+  },
+  {
+    "BranchName": "WARRI",
+    "Address": "130 WARRI/SAPELE ROAD, OPPOSITE URHOBO COLLEGE, EFFURUN, DELTA STATE.",
+    "latitude": 5.604722,
+    "longitude": 5.705833
+  },
+  {
+    "BranchName": "WARRI 2",
+    "Address": "23, OGUNU ROAD",
+    "latitude": 5.611111,
+    "longitude": 5.731667
+  },
+  {
+    "BranchName": "IGBUDU",
+    "Address": "No. 188 Warri-Sapele Road, Opp. Hausa Quarters",
+    "latitude": 5.605833,
+    "longitude": 5.705833
+  },
+  {
+    "BranchName": "WUKARI",
+    "Address": "10, HOSPITAL ROAD, WUKARI, TARABA",
+    "latitude": 7.527778,
+    "longitude": 9.786111
+  },
+  {
+    "BranchName": "HERBERT MACAULAY",
+    "Address": "244/246 HERBERT MACAULAY ROAD, ALAGOMEJI, YABA.",
+    "latitude": 6.524722,
+    "longitude": 3.379722
+  },
+  {
+    "BranchName": "HERBERT MACAULAY 2",
+    "Address": "PLOT 171, HERBERT MACAULAY WAY, YABA",
+    "latitude": 6.524722,
+    "longitude": 3.379722
+  },
+  {
+    "BranchName": "YENAGOA",
+    "Address": "No. 426 Melford Okilo Road, Yenizue-Gene",
+    "latitude": 4.926111,
+    "longitude": 6.266667
+  },
+  {
+    "BranchName": "YENAGOA 2",
+    "Address": "228 MBIAMA/YENAGOA ROAD, AMARATA",
+    "latitude": 4.926111,
+    "longitude": 6.266667
+  },
+  {
+    "BranchName": "YOLA",
+    "Address": "25 GALADIMA AMINU WAY, JIMETA",
+    "latitude": 9.196111,
+    "longitude": 12.449444
+  },
+  {
+    "BranchName": "YOLA 2",
+    "Address": "11 MOHAMMED MUSTAPHA WAY, OPP. JIMETA MODERN MARKET, JIMETA",
+    "latitude": 9.197500,
+    "longitude": 12.449722
+  },
+  {
+    "BranchName": "YOLA 3",
+    "Address": "PLOT 83, OPPOSITE TC JUNCTION, LAMIDO ZUBAIRU WAY, YOLA BYE-PASS, YOLA SOUTH LOCAL GOVERNMENT, ADAMAWA STATE",
+    "latitude": 9.202500,
+    "longitude": 12.449722
+  },
+  {
+    "BranchName": "ZARIA",
+    "Address": "F3, KADUNA ROAD, PZ AREA, PMB 1133",
+    "latitude": 11.674444,
+    "longitude": 7.708611
+  },
+  {
+    "BranchName": "ZUBA",
+    "Address": "PLOT B6, KM 1, ABUJA-KADUNA EXPRESSWAY, ZUBA, ABUJA",
+    "latitude": 9.004167,
+    "longitude": 7.116667
+  }
+]

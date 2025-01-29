@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "swhBsahbxNA173rgYPSRE0ZwVRaY8gC/N/rtacmhCAg=",
+  "Source": "BranchLocator",
+  "BasePath": "_content/BranchLocator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BranchLocator\\wwwroot",
+      "Source": "BranchLocator",
+      "ContentRoot": "C:\\Users\\adebo\\source\\repos\\BranchLocator\\BranchLocator\\wwwroot\\",
+      "BasePath": "_content/BranchLocator",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\adebo\\source\\repos\\BranchLocator\\BranchLocator\\wwwroot\\default.htm",
+      "SourceId": "BranchLocator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adebo\\source\\repos\\BranchLocator\\BranchLocator\\wwwroot\\",
+      "BasePath": "_content/BranchLocator",
+      "RelativePath": "default#[.{fingerprint}]?.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3qj9y86un1",
+      "Integrity": "Gy40xRxeOYFLv2A/CH04L6192cEiV9DY4JrmdXFwehs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "default.3qj9y86un1.htm",
+      "AssetFile": "C:\\Users\\adebo\\source\\repos\\BranchLocator\\BranchLocator\\wwwroot\\default.htm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19465"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gy40xRxeOYFLv2A/CH04L6192cEiV9DY4JrmdXFwehs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 15:45:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3qj9y86un1"
+        },
+        {
+          "Name": "label",
+          "Value": "default.htm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gy40xRxeOYFLv2A/CH04L6192cEiV9DY4JrmdXFwehs="
+        }
+      ]
+    },
+    {
+      "Route": "default.htm",
+      "AssetFile": "C:\\Users\\adebo\\source\\repos\\BranchLocator\\BranchLocator\\wwwroot\\default.htm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19465"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gy40xRxeOYFLv2A/CH04L6192cEiV9DY4JrmdXFwehs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 15:45:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gy40xRxeOYFLv2A/CH04L6192cEiV9DY4JrmdXFwehs="
+        }
+      ]
+    }
+  ]
+}

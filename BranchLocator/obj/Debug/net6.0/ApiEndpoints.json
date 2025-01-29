@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "BranchLocator.Controllers.BotController",
+    "Method": "PostAsync",
+    "RelativePath": "api/messages",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BranchLocator.Controllers.BotController",
+    "Method": "PostAsync",
+    "RelativePath": "api/messages",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
